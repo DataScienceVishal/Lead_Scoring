@@ -1,6 +1,5 @@
 # Lead Score Case Study
 
-## Project Summary - 13-09-2022
 
 ### Executive Summary
 
